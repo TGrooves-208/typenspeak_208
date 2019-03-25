@@ -1,0 +1,15 @@
+{
+  "name": "type_n_speak",
+  "version": "1.0.0",
+  "description": "Type and Speak App",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "Gil Aguilar",
+  "license": "ISC",
+  "homepage": "https://TGrooves.208.github.io/typenspeak",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
